@@ -1,3 +1,4 @@
+/*
 #!/usr/bin/env node
 
 var fs = require('fs');
@@ -83,3 +84,4 @@ function _clean(str){
 	str = str.replace(/\n|\t/g,""); // strip newlines & tabs
 	return str;
 };
+*/
